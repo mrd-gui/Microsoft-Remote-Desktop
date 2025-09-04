@@ -1,4 +1,4 @@
-## Download Microsoft Remote Desktop
+## Microsoft Remote Desktop
 
 Before connecting to your devices or applications from a Windows machine, ensure the following prerequisites are met:
 
